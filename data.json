@@ -1,0 +1,27 @@
+[
+    {
+        "id": 10,
+        "nama": "Abdullah Bintang",
+        "umur": "40 Tahun"
+    },
+    {
+        "id": 3,
+        "nama": "Johan Taruna",
+        "umur": "28 Tahun"
+    },
+    {
+        "id": 7,
+        "nama": "Erna Sukadi",
+        "umur": "39 Tahun"
+    },
+    {
+        "id": 1,
+        "nama": "Bella Mella",
+        "umur": "24 Tahun"
+    },
+    {
+        "id": 9,
+        "nama": "Dodit Huri",
+        "umur": "18 Tahun"
+    }
+]
